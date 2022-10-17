@@ -1,0 +1,36 @@
+h1 - h6 done
+p done
+pre done
+comments done
+tables done
+lists done
+image done
+anchor tag done
+buttons done
+div done
+span done
+
+form
+inputs types
+
+meta tags
+
+css
+inline, internal, external styles
+selectors
+text styling 
+background
+border
+margin
+padding
+Box model
+
+Day -2
+positions
+pseudo classes
+displays
+
+flex 
+grid
+
+best practices
